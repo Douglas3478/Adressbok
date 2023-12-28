@@ -1,0 +1,164 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Erik",
+    "LastName": "Andersson",
+    "Email": "erik.andersson@example.com",
+    "PhoneNumber": "123-456-7890",
+    "HomeAdress": null,
+    "City": "Stockholm"
+  },
+  {
+    "Id": 2,
+    "FirstName": "Anna",
+    "LastName": "Svensson",
+    "Email": "anna.svensson@example.com",
+    "PhoneNumber": "987-654-3210",
+    "HomeAdress": null,
+    "City": "Malm\u00F6"
+  },
+  {
+    "Id": 3,
+    "FirstName": "Oscar",
+    "LastName": "Lindberg",
+    "Email": "oscar.lindberg@example.com",
+    "PhoneNumber": "555-123-4567",
+    "HomeAdress": null,
+    "City": "Gothenburg"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Hanna",
+    "LastName": "Ekstr\u00F6m",
+    "Email": "hanna.ekstrom@example.com",
+    "PhoneNumber": "222-333-4444",
+    "HomeAdress": null,
+    "City": "Lund"
+  },
+  {
+    "Id": 5,
+    "FirstName": "Gustav",
+    "LastName": "Bergman",
+    "Email": "gustav.bergman@example.com",
+    "PhoneNumber": "777-888-9999",
+    "HomeAdress": null,
+    "City": "Uppsala"
+  },
+  {
+    "Id": 6,
+    "FirstName": "Emelie",
+    "LastName": "Holm",
+    "Email": "emelie.holm@example.com",
+    "PhoneNumber": "333-555-7777",
+    "HomeAdress": null,
+    "City": "Link\u00F6ping"
+  },
+  {
+    "Id": 7,
+    "FirstName": "Anders",
+    "LastName": "Larsson",
+    "Email": "anders.larsson@example.com",
+    "PhoneNumber": "666-999-4444",
+    "HomeAdress": null,
+    "City": "J\u00F6nk\u00F6ping"
+  },
+  {
+    "Id": 8,
+    "FirstName": "Sofia",
+    "LastName": "Bj\u00F6rk",
+    "Email": "sofia.bjork@example.com",
+    "PhoneNumber": "111-222-3333",
+    "HomeAdress": null,
+    "City": "Karlstad"
+  },
+  {
+    "Id": 9,
+    "FirstName": "Mikael",
+    "LastName": "Nyqvist",
+    "Email": "mikael.nyqvist@example.com",
+    "PhoneNumber": "444-666-8888",
+    "HomeAdress": null,
+    "City": "\u00D6rebro"
+  },
+  {
+    "Id": 10,
+    "FirstName": "Linnea",
+    "LastName": "Lundgren",
+    "Email": "linnea.lundgren@example.com",
+    "PhoneNumber": "888-111-2222",
+    "HomeAdress": null,
+    "City": "V\u00E4ster\u00E5s"
+  },
+  {
+    "Id": 0,
+    "FirstName": "Douglas",
+    "LastName": "Hanell",
+    "Email": "Douglas_00@live.se",
+    "PhoneNumber": "0702437608",
+    "HomeAdress": "Hjorttorpsv\u00E4gen 25",
+    "City": "\u00D6rebro"
+  },
+  {
+    "Id": 0,
+    "FirstName": "Dogge",
+    "LastName": "Nator",
+    "Email": "Dogge.Nator@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  },
+  {
+    "Id": 0,
+    "FirstName": "Dogge",
+    "LastName": "Karlsson",
+    "Email": "Dogge.Karlsson@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  },
+  {
+    "Id": 0,
+    "FirstName": "Dogge",
+    "LastName": "Johansson",
+    "Email": "Dogge.Johansson@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  },
+  {
+    "Id": 0,
+    "FirstName": "Douglas",
+    "LastName": "Hanell",
+    "Email": "D.Hanell@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  },
+  {
+    "Id": 0,
+    "FirstName": "Moa",
+    "LastName": "Hansson",
+    "Email": "M.Hansson@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  },
+  {
+    "Id": 0,
+    "FirstName": "Douglas",
+    "LastName": "Hanell",
+    "Email": "Douglas.Hanell@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  },
+  {
+    "Id": 0,
+    "FirstName": "Moa",
+    "LastName": "Hansson",
+    "Email": "Moa.Hansson@example.com",
+    "PhoneNumber": null,
+    "HomeAdress": null,
+    "City": null
+  }
+]
